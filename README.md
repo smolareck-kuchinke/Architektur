@@ -21,25 +21,15 @@ Die Ticketverwaltung bildet dabei die zentrale Komponente und verwendet die übr
 
 
 
-- Modularität
+- Modularität: Die Anwendung wurde in mehrere fachlich getrennte Komponenten unterteilt. Dadurch besitzt jede Komponente eine klar definierte Aufgabe.
 
-Die Anwendung wurde in mehrere fachlich getrennte Komponenten unterteilt. Dadurch besitzt jede Komponente eine klar definierte Aufgabe.
+- Separation of Concerns: Jede Komponente übernimmt genau einen Verantwortungsbereich. Beispielsweise erfolgt die Preisberechnung unabhängig von der Zahlungsverwaltung.
 
-- Separation of Concerns
+- Hohe Kohäsion: Funktional zusammengehörende Aufgaben befinden sich innerhalb derselben Komponente. Dadurch bleiben die Komponenten übersichtlich und leichter wartbar.
 
-Jede Komponente übernimmt genau einen Verantwortungsbereich. Beispielsweise erfolgt die Preisberechnung unabhängig von der Zahlungsverwaltung.
+- Lose Kopplung: Die Kommunikation zwischen den Komponenten erfolgt über definierte APIs. Änderungen innerhalb einer Komponente wirken sich dadurch möglichst wenig auf andere Komponenten aus.
 
-- Hohe Kohäsion
-
-Funktional zusammengehörende Aufgaben befinden sich innerhalb derselben Komponente. Dadurch bleiben die Komponenten übersichtlich und leichter wartbar.
-
-- Lose Kopplung
-
-Die Kommunikation zwischen den Komponenten erfolgt über definierte APIs (z. B. Ticket API, User API oder Community API). Änderungen innerhalb einer Komponente wirken sich dadurch möglichst wenig auf andere Komponenten aus.
-
-- Information Hiding
-
-Die interne Umsetzung der Komponenten bleibt nach außen verborgen. Andere Komponenten greifen ausschließlich über die bereitgestellten Schnittstellen auf Funktionen zu.
+- Information Hiding: Die interne Umsetzung der Komponenten bleibt nach außen verborgen. Andere Komponenten greifen ausschließlich über die bereitgestellten Schnittstellen auf Funktionen zu.
 
 ## Ebenen der Architektur
 
