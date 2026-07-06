@@ -47,7 +47,7 @@ Die Webanwendung dient als Einstiegspunkt und kommuniziert über definierte Schn
 
 ## Frameworks
 
-Ja, für die Umsetzung der Architektur wurden in vorherigen EAs Frameworks und Werkzeuge verwendet:
+Ja, siehe vorherige EAS:
 
 Spring Boot
 Maven
