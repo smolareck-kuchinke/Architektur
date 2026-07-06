@@ -5,9 +5,7 @@ Für diese Aufgabe habe ich wieder mein Projekt SpieltagPLUS verwendet.
 ## Architekturübersicht
 
 Die erste Ebene zeigt die Hauptkomponenten des Systems.
-Um die Architektur weiter zu verfeinern, wurde das Ticketsystem in einzelne Komponenten zerlegt.
-
-Die interne Struktur besteht aus folgenden Komponenten:
+Um die Architektur weiter zu verfeinern, wurde das Ticketsystem in einzelne Komponenten zerlegt. Es besteht aus:
 
 Ticketverwaltung
 Preisberechnung
