@@ -37,7 +37,7 @@ Die Architektur wurde in zwei Ebenen modelliert.
 
 Ebene 1 = Hauptkomponenten der Anwendung sowie deren Beziehungen untereinander.
 
-Ebene 2 = Interne Komponenten. Dadurch wird die interne Struktur sichtbar, ohne die Gesamtübersicht der Anwendung zu verlieren.
+Ebene 2 = Interne Komponenten von Ticketsystem. Dadurch wird die interne Struktur sichtbar, ohne die Gesamtübersicht der Anwendung zu verlieren.
 
 ## Architekturstil
 
