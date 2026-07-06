@@ -77,19 +77,9 @@ Was bringts? -> Programmierregeln einhalten, potenzielle Fehler frühzeitig erke
 
 # Architecture Communication Canvas
 
-Zur Kommunikation der Softwarearchitektur wurde zusätzlich ein Architecture Communication Canvas erstellt.
-
-Das Canvas fasst die wichtigsten Informationen der Architektur auf einer Seite zusammen und erleichtert die Kommunikation zwischen Entwicklern und anderen Projektbeteiligten.
 
 ![Canvas](images/canvas.png)
 
-Inhalt des Canvas
 
-Das Canvas beschreibt unter anderem
 
-- den fachlichen Nutzen der Anwendung,
-- die wichtigsten Komponenten,
-- die zentralen Qualitätsanforderungen,
-- die verwendeten Technologien,
-- die wichtigsten Stakeholder,
-- Risiken sowie offene Punkte der Architektur.
+
