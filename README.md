@@ -17,7 +17,7 @@ Die Ticketverwaltung bildet dabei die zentrale Komponente und verwendet die übr
 ![Aktivitätsdiagramm](images/Aktivitätendiagramm.png)
 
 
-## Verwendete Architekturprinzipien
+## Architekturprinzipien
 
 
 
