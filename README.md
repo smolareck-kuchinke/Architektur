@@ -19,7 +19,7 @@ Die Ticketverwaltung bildet dabei die zentrale Komponente und verwendet die übr
 
 ## Verwendete Architekturprinzipien
 
-Bei der Modellierung wurden verschiedene Architekturprinzipien aus der Vorlesung berücksichtigt.
+
 
 - Modularität
 
