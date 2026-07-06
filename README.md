@@ -16,7 +16,7 @@ TicketRepository
 
 Die Ticketverwaltung bildet dabei die zentrale Komponente und verwendet die übrigen Komponenten zur Berechnung von Ticketpreisen, zur Zahlungsabwicklung sowie zum Speichern und Laden der Ticketdaten.
 
-![Aktivitätsdiagramm](images/Aktivitätsdiagramm.png)
+![Aktivitätsdiagramm](images/Aktivitätendiagramm.png)
 
 
 ## Verwendete Architekturprinzipien
