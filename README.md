@@ -57,7 +57,7 @@ Die Webanwendung dient als Einstiegspunkt und kommuniziert über definierte Schn
 
 ## Frameworks
 
-Für die Umsetzung der Architektur werden folgende Frameworks und Werkzeuge verwendet:
+Ja, für die Umsetzung der Architektur wurden in vorherigen EAs Frameworks und Werkzeuge verwendet:
 
 Spring Boot
 Maven
@@ -66,15 +66,13 @@ Mockito
 
 ## Qualität und Metriken
 
-Die Qualität der Anwendung soll bereits während der Entwicklung kontinuierlich überwacht werden.
-
-Hierzu wurden bereits in der vorherigen Einsendeaufgabe verschiedene Werkzeuge eingesetzt:
+In vorherigen EAs eingesetzt:
 
 Checkstyle
 PMD
 SpotBugs
 
-Diese Werkzeuge unterstützen dabei, Programmierregeln einzuhalten, potenzielle Fehler frühzeitig zu erkennen und die Wartbarkeit des Quellcodes zu verbessern.
+Was bringts? -> Programmierregeln einhalten, potenzielle Fehler frühzeitig erkennen und die Wartbarkeit des Quellcodes verbessern.
 
 
 # Architecture Communication Canvas
